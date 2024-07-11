@@ -1,6 +1,6 @@
 name: Publish Markdown Files
 env:
-  BLOG_REPO: matthewwong525/linked-blog-starter
+  BLOG_REPO: banuragaxioned/notes-ui
   PUBLISH_DIR: publish
 on:
   workflow_dispatch:
@@ -35,7 +35,6 @@ jobs:
       - name: Deploy Vercel
         uses: amondnet/vercel-action@v20
         with:
-          # TODO: Update Github Secrets with values
           vercel-token: ${{ secrets.VERCEL_TOKEN }} # Required
           vercel-org-id: ${{ secrets.VERCEL_ORG_ID }} # Required
           vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }} # Required
