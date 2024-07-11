@@ -1,2 +1,3 @@
-# linked-blog-starter-md
-These are the markdown files for the [linked-blog-starter](https://github.com/matthewwong525/linked-blog-starter) repository
+# notes-md
+
+These are the markdown files for the [notes-ui](https://github.com/banuragaxioned/notes-ui) repository
