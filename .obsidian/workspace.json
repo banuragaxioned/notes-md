@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "publish/home.md",
+                "file": "publish/zettles/how-linked-blog-starter-works.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "home"
+              "title": "how-linked-blog-starter-works"
             }
           }
         ]
@@ -179,6 +179,20 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f26b77bfba77f457",
-  "lastOpenFiles": ["publish/home.md"]
+  "active": "b273e018219e0510",
+  "lastOpenFiles": [
+    "publish/templates/Post.md",
+    "publish/zettles/how-linked-blog-starter-works.md",
+    "README.md",
+    "publish/test.md",
+    "publish/home.md",
+    "publish/zettles",
+    "publish/templates",
+    "publish",
+    "missing_objects.txt",
+    "publish/zettles/202412291311.md",
+    "publish/zettles/202412291310.md",
+    "publish/202412291310.md",
+    "how-linked-blog-starter-works.md"
+  ]
 }
